@@ -1,0 +1,9 @@
+name: juice
+channels:
+  - pytorch
+  - nvidia
+dependencies:
+  - pytorch
+  - torchaudio
+  - torchvision
+  - cudatoolkit=11.7
